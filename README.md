@@ -1,0 +1,2 @@
+# Assignment6
+ASSIGNMENT 6: BASIC OF ADF
